@@ -2,6 +2,8 @@
 
 ## Welcome to the GitHub repository for the Hallow Gens website, a landing page for an immersive Minecraft gaming experience. This document provides an overview of the features and functionalities implemented on the site.
 
+![Screenshot of the Website](img/website_screenshot.png)
+
 ### Features
 
 #### General Features
